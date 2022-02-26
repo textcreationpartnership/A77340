@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A breviate for the members of the Convention</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77340</idno>
+            <idno type="STC">Wing B4409</idno>
+            <idno type="STC">ESTC R170792</idno>
+            <idno type="EEBO-CITATION">43077475</idno>
+            <idno type="OCLC">ocm 43077475</idno>
+            <idno type="VID">151534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151534)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2263:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A breviate for the members of the Convention</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Parliament --  1689.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151534:1" rendition="simple:additions"/>
+            <head>A BREVIATE FOR THE <hi>Members of the Convention.</hi>
+            </head>
+            <p>THE <hi>People</hi> of this <hi>Nation</hi> are by Birth a <hi>Free People,</hi> who are born to
+a <hi>Liberty</hi> of <hi>Perſon</hi> and <hi>Propriety</hi> in their <hi>Goods</hi> and
+<hi>Lands,</hi> and there<g ref="char:EOLhyphen"/>fore <hi>England</hi> is rightly called a <hi>Free State.</hi>
+            </p>
+            <p>To underſtand the <hi>Government,</hi> we muſt know that theſe two things are always to be
+diſtinguiſhed, the <hi>Conſtitution</hi> and the <hi>Adminiſtration.</hi>
+            </p>
+            <p>The <hi>Conſtitution</hi> of a <hi>Government</hi> does lye in the <hi>Original Agreement</hi>
+of the <hi>People,</hi> which they make between <hi>themſelves,</hi> or with their
+<hi>Governour,</hi> or <hi>Go<g ref="char:EOLhyphen"/>vernours</hi> before the <hi>Government</hi> be ſet up, whether
+there be <hi>none</hi> before, or the <hi>former</hi> at an end.</p>
+            <p>When the People are in ſuch a State, while there is no Order of Superiority or Inferiority
+introduced, it is called a <hi>Community:</hi> When a <hi>Ruler</hi> is <hi>choſe,</hi> ſo that
+there is a <hi>Ruling</hi> and <hi>Ruled Part,</hi> it is a <hi>Society,</hi> or called a
+<hi>Common-Wealth.</hi>
+            </p>
+            <p>Let us ſuppoſe a Company of <hi>Families,</hi> that having no dependance on one another, nor
+any one having Power over the other, yet living near each other, do find it convenient to join
+together into a Society; for mutual <hi>Defence</hi> againſt ſome forreign <hi>Enemy,</hi> or
+for the <hi>reaping</hi> ſeveral <hi>Advantages,</hi> which they ſhall receive by it. The
+<hi>Heads</hi> or <hi>Repreſentatives</hi> of theſe <hi>Families</hi> aſſemble, to
+con<g ref="char:EOLhyphen"/>ſider what is to be done in order to theſe Ends. Three things more eſpecially they muſt
+conſult upon. What Government (as to the <hi>ſort</hi> or <hi>kind</hi>) is beſt for them?
+Who ſhall be <hi>Governour</hi> or <hi>Governours?</hi> And by what <hi>Laws</hi> or
+<hi>Rules</hi> they ſhall <hi>Govern</hi> who are entruſted with the <hi>Supreme Power?</hi>
+And more particularly, in relation to what <hi>meaſure</hi> of it, they will allow them, to have
+over their <hi>Per<g ref="char:EOLhyphen"/>ſons</hi> and <hi>Eſtates,</hi> to uſe them as they have occaſion, for
+the Publick Good. For when they are yet <hi>Free</hi> in <hi>Both,</hi> the <hi>Governour</hi> can
+have power ſo far, but no farther than they at firſt <hi>Conſent.</hi> Whatſoever
+<hi>Reſervations</hi> of <hi>Liberty</hi> the <hi>People</hi> make in their <hi>Agreement,</hi>
+theſe are to be look'd upon as their <hi>Rights</hi> by the <hi>Laws</hi> of the
+<hi>Conſtitution,</hi> and <hi>Eſſential</hi> thereunto, and conſequently
+<hi>inviolable</hi> by any of theſe <hi>Governours</hi> whom they ſet up for the
+<hi>Adminiſtration;</hi> the very <hi>Laws</hi> of the <hi>Adminiſtration</hi> being
+<hi>void,</hi> ſo far as they <hi>interfere</hi> with any of <hi>thoſe</hi> of the
+<hi>Conſtitution.</hi>
+            </p>
+            <p>The <hi>Conſtitution</hi> and <hi>Laws</hi> thereof being <hi>agreed upon,</hi> and it being
+impoſſible for humane Prudence to foreſee all Accidents, which muſt be provided for
+there<g ref="char:EOLhyphen"/>fore as they ariſe, the Adminiſtration neceſſarily muſt lye in theſe two things.
+The making <hi>farther Laws</hi> (ſubordinate ſtill to thoſe foreprized) as occaſion
+re<g ref="char:EOLhyphen"/>quires,
+<pb n="2" facs="tcp:151534:2"/>and ſeeing them <hi>Executed,</hi> that is, in
+<hi>Legiſlation</hi> and <hi>Judgment.</hi> The one is the Buſineſs of the Supreme Authority,
+the other of the Inferiour Magi<g ref="char:EOLhyphen"/>ſtrates, or Officers, and Executioners of the ſame, according
+to that <hi>Fundamental Agreement</hi> made by the <hi>People.</hi>
+            </p>
+            <p>Our <hi>Government</hi> now as <hi>Conſtituted</hi> in order to this
+<hi>Adminiſtration,</hi> is, we know, a <hi>Mixt Government.</hi> A <hi>Government</hi> is known
+to be <hi>pure</hi> or <hi>mixt</hi> by the placing the <hi>Supreme Authority.</hi> If the
+<hi>People</hi> place it ſingly in the <hi>King,</hi> or ſingly in the <hi>Nobles,</hi> or
+ſingly in the <hi>People,</hi> then it is a <hi>pure Monarchy, Ariſtocracy, or Democracy:</hi>
+But when it is placed in all <hi>Three,</hi> then it is a <hi>Mixt</hi> Government, as
+<hi>Ours</hi> is, where there are no Laws in the Adminiſtration ever made but by <hi>King,
+Lords,</hi> and <hi>Commons.</hi>
+            </p>
+            <p>Theſe things I purſue only <hi>ſo far</hi> as is <hi>neceſſary</hi> to the
+<hi>reaching</hi> my main <hi>pur<g ref="char:EOLhyphen"/>poſe;</hi> and the <hi>leading</hi> me to a right
+<hi>Diſcernment</hi> of the preſent <hi>Condition,</hi> into which wee are now brought, in
+regard to this ſaid <hi>Government.</hi>
+            </p>
+            <p>The <hi>Supreme Power</hi> of the <hi>Nation</hi> being placed in a <hi>Parliament,</hi> which
+is a <hi>Cor<g ref="char:EOLhyphen"/>poration</hi> of <hi>King, Lords,</hi> and <hi>Commons,</hi> that is, The <hi>Supreme
+Authority</hi> reſiding in <hi>King, Lords,</hi> and <hi>Commons,</hi> as <hi>one
+Corporation,</hi> there does appear, at this Conjun<g ref="char:EOLhyphen"/>cture, a <hi>Diſſolution</hi> of the
+Government. This <hi>Appearance</hi> does ariſe from the opening of the laſt <hi>Scene.</hi>
+For the <hi>King</hi> being now gone, gone from his <hi>People,</hi> and departing from his
+Government, that <hi>one Corporation</hi> (we ſpeak of) is <hi>broke,</hi> ſo that there
+remains now no <hi>ſubject</hi> for that <hi>ſupreme Authority;</hi> It being evident that a
+<hi>Parliament,</hi> wherein an Eſſential Point of our <hi>Conſtitution</hi> does
+conſiſt, can<g ref="char:EOLhyphen"/>not now be <hi>aſſembled:</hi> And the Providence of GOD it ſelf hath
+extraordina<g ref="char:EOLhyphen"/>rily determined our Caſe. If a <hi>King</hi> dies, he hath a <hi>Succeſſor,</hi>
+and the <hi>Right</hi> de<g ref="char:EOLhyphen"/>volves upon <hi>him;</hi> but whilſt the <hi>King lives,</hi> he hath
+no <hi>Succeſſor,</hi> and the Right remaining in <hi>him</hi> and no <hi>other,</hi> and he
+being <hi>divided</hi> from his <hi>Lords</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons,</hi> the <hi>Subject</hi> of the
+<hi>ſupreme Power,</hi> or this <hi>one Corporation</hi> (whereof the <hi>King</hi> is a Chief,
+Eſſential, and <hi>Conſtituent Part</hi>) does perfectly <hi>ceaſe,</hi> and muſt
+neceſſarily cauſe a <hi>Diſſolution.</hi>
+            </p>
+            <p>I chooſe not to <hi>found</hi> this <hi>upon</hi> what does rather convince <hi>others,</hi>
+which comes to this Account. The <hi>King</hi> by his frequent <hi>Malverſation</hi> in the
+<hi>Government,</hi> and rooted Deſign of ſubverting our <hi>Religious</hi> and <hi>Civil</hi>
+Rights, for the Introduction of <hi>Arbitrary Power</hi> and <hi>Popery,</hi> which being
+aggravated by ſuch an <hi>Endeavour,</hi> as the <hi>deſtroying</hi> that <hi>ſhare</hi> in
+the <hi>Government</hi> which every <hi>Commoner</hi> hath, that hath <hi>Right</hi> to chooſe
+his <hi>Repreſentative</hi> in <hi>Parliament,</hi> by his <hi>Garbling Corporations,</hi> and
+ſo <hi>evacuating</hi> this <hi>Liberty</hi> in effect; and by ſuch an <hi>Endeavour</hi>
+alſo as the <hi>extermi<g ref="char:EOLhyphen"/>nating</hi> his <hi>Proteſtant Subjects,</hi> ſeeing that Religion
+which he would have introduced, is ſuch, as by the <hi>Principles</hi> of it, if it comes into
+Domination, muſt do ſo to all <hi>Hereticks,</hi> and thereupon may he be look'd on no longer
+as <hi>Rex,</hi> but <hi>Hoſtis,</hi> and <hi>Hoſtis Publicus:</hi> Beſides, the ſubjecting
+us to a <hi>Forreign Juriſdiction,</hi> and the very <hi>Changing</hi> the <hi>Government,</hi>
+by that indefinite <hi>Diſpenſing</hi> Power over the Laws, as was carved to him by his
+<hi>Judges,</hi> from <hi>Regal</hi> to <hi>Deſpotical:</hi> it is judged by them, that he is
+fallen thereupon from his <hi>Royal Dignity,</hi> and that the <hi>
+                  <g ref="char:V">Ʋ</g>niverſality</hi> thereby
+have <hi>Warrant,</hi> not only to <hi>defend</hi> themſelves againſt him, but by Vertue of
+that <hi>Sanction</hi> which is tacitly implyed in the <hi>Laws</hi> of the
+<hi>Conſtitution,</hi> to proceed on to <hi>take</hi> the <hi>Forfeiture</hi> he hath made of his
+<hi>Government,</hi> and <hi>Depoſe</hi> him: For it is a fond thing (think they) to imagine any
+<hi>Laws</hi> without a <hi>Sanction,</hi> and impoſſible there ſhould be any other
+<hi>Sanction</hi> in <hi>Treatys</hi> between <hi>Free Nations,</hi> or between a <hi>Free
+People,</hi> and the <hi>Governours</hi> they ſet over themſelves, than <hi>Force,</hi> to be
+uſed by the Partyes concern'd, there being no <hi>Third</hi> Party on <hi>earth,</hi> to appeal
+to, in ſuch Caſes.</p>
+            <p>However this be, it being taken for granted, that the <hi>Goverment</hi> is
+<hi>diſſolved,</hi>
+               <pb n="3" facs="tcp:151534:2"/>and I ſuppoſe upon that preceding Account, of
+the <hi>one Corporation</hi> (I ſay) being <hi>broke,</hi> the <hi>ſupreme Authority</hi> that
+lay before in the <hi>Three</hi> as united in <hi>One,</hi> does <hi>eſcheat,</hi> or fall to the
+<hi>Community;</hi> who muſt therefore <hi>chooſe</hi> a new <hi>Subject</hi> for that
+<hi>Power,</hi> and it lyes at their Diſcretion to place it in what Subject they pleaſe; They
+may lodge it in the <hi>Lords</hi> and <hi>Commons</hi> alone without a <hi>King,</hi> if they
+think that Government beſt, the matter lyes altogether upon their Agreement, and
+<hi>Conſent.</hi> I ſuppoſe it moſt likely that they will agree to place it again in a
+Monarch, Lords, and Commons (the <hi>Perſon</hi> only left at Choice, and Care had to prevent all
+Dan<g ref="char:EOLhyphen"/>ger of <hi>Law</hi> in the caſe) according to the Ancient Conſtitution Though who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+know the Mind of a Nation, when an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come together, if he knows his own Mind?</p>
+            <p>There is one thing we have now Opportunity to obtain, which we can never recover again, if it be
+loſt, and that is, what His <hi>Highneſs</hi> the <hi>Prince</hi> of <hi>Orange</hi> hath made
+one of his two Deſigns, <hi>The Delivery of the People from Slavery,</hi> which can never be done
+effectually, and radically, but upon this <hi>Advantage.</hi> The <hi>Delivering</hi> us from
+<hi>Popery,</hi> is contained in the <hi>Setling</hi> our <hi>Religion,</hi> and that being a Work
+of great length, is the buſineſs more properly of a <hi>Parliament;</hi> but <hi>this</hi> is a
+thing muſt be done by the <hi>Community,</hi> and conſequently by thoſe that are the
+<hi>Repreſentatives</hi> of it, a <hi>Convention,</hi> ſo Called, (in regard to a Higher
+Capa<g ref="char:EOLhyphen"/>city hereunto) and not a <hi>Parliament;</hi> for that repreſents the People, not as in a
+<hi>Community,</hi> but as in a <hi>Common-wealth</hi> where there is <hi>pars imperans</hi> as
+well as <hi>ſub<g ref="char:EOLhyphen"/>dita,</hi> which <hi>now</hi> is not. A <hi>Parliament</hi> makes <hi>Laws</hi>
+for the <hi>Adminiſtration,</hi> but the <hi>People,</hi> as in a <hi>Community,</hi> make
+<hi>Laws</hi> for the <hi>Conſtitution.</hi>
+            </p>
+            <p>I would therefore humbly offer it to the Conſideration of thoſe who ſhall meet as Members
+of this <hi>Convention,</hi> that, in order to the effect premiſed, they do but agree and pitch
+upon this one certain Point of <hi>good Polity,</hi> that whereſoever they place the
+<hi>ſupreme Authority,</hi> they do lay alſo the <hi>Rights</hi> or <hi>Propertyes</hi> of it,
+that is, the <hi>Jura Majeſtatis</hi> (<hi>Majeſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> being <hi>ma<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>a Poteſtas</hi>) all
+together.</p>
+            <p>The Rights of <hi>Majeſty,</hi> or of the <hi>ſupreme Power,</hi> are mainly theſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. The
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is <hi>Legiſlation,</hi> or making Laws, and this undoubtedly lyes in a Parliament. The
+next, is the Power of raiſing <hi>Arms,</hi> or Armyes, or the <hi>Militia,</hi> the Power of
+making <hi>Peace</hi> and <hi>War,</hi> or the Power of the <hi>Sword,</hi> which is neceſſary
+to main<g ref="char:EOLhyphen"/>tain thoſe Laws. The Third, is a Power over our <hi>Eſtates,</hi> or the
+<hi>Purſe,</hi> or raiſing <hi>Money,</hi> which muſt maintain the <hi>Sword.</hi> A Fourth,
+is the Power of <hi>chooſing Ma<g ref="char:EOLhyphen"/>giſtrates,</hi> to rule us according to theſe <hi>Laws,</hi>
+ſuch as <hi>Judges</hi> and <hi>Sheriffs,</hi> to name no other. A Fifth, is the <hi>laſt
+Appeal.</hi> Now let but the Power of the <hi>Militia,</hi> and <hi>chooſing Magiſtrates,</hi>
+be laid where <hi>Legiſlation</hi> is, and we ſhall be fundamentally de<g ref="char:EOLhyphen"/>livered from all
+<hi>Slavery</hi> for ever in the Nation.</p>
+            <p>It we be <hi>Enſlaved</hi> or oppreſſed by any <hi>Prince</hi> for the time to come, it
+muſt be either by <hi>Force,</hi> or by <hi>Injuſtice.</hi> We cannot be oppreſſed by
+<hi>Force,</hi> becauſe no Forces then can be raiſed by him, but by a Parliament. He cannot
+<hi>rule</hi> by an <hi>Army,</hi> or by Violence, for the <hi>Militia</hi> is in the
+<hi>Lords</hi> and <hi>Commons,</hi> as well as in him, and they will not let him do ſo: We
+cannot be oppreſſed with <hi>Injuſtice,</hi> for the <hi>Judges</hi> and <hi>Officers</hi>
+entruſted with the Execution of <hi>Juſtice,</hi> ſhall be Choſen alſo by them, and they
+will look to <hi>that.</hi>
+            </p>
+            <p>It is true, while no Parliament ſits, the King by Vertue of the Executive power lying in him,
+may raiſe Arms, and put in Officers and Magiſtrates as there is need, but both theſe are to
+be done under the Controul of the next Parliament, which are therefore to ſit often by ancient
+Statutes, there being no War to be levied, nor Magiſtrates <hi>Confirmed</hi> without their
+Approbation.</p>
+            <p>Let us remember the State we are in, a State that puts the <hi>ſupreme power</hi> in the
+<pb n="4" facs="tcp:151534:3"/>
+               <hi>hands</hi> of the <hi>People,</hi> to
+<hi>place</hi> it as they <hi>will,</hi> and therefore to <hi>bound</hi> and <hi>limit</hi> it as
+they ſee <hi>fit,</hi> for the publick Utility; and if they do it not <hi>now,</hi> the <hi>Ages
+to come</hi> will have occaſion to <hi>blame</hi> them for <hi>ever.</hi> When the ſupreme
+Power is upon the diſ<g ref="char:EOLhyphen"/>poſing, if they do not take this Item, as part of their proper Work,
+<hi>To bind the deſcent of it to a Proteſtant,</hi> I ſhall blame them: But I ſhall do ſo
+much more, if after the danger we have been in of Arbitrary Domination and Popery, by the King's
+raiſing <hi>Arms,</hi> and putting in and out of <hi>Judges</hi> at his own pleaſure, they do
+not take more care of the <hi>ſupreme Power,</hi> to lay it and its <hi>Rights</hi> better
+toge<g ref="char:EOLhyphen"/>ther. Eſpecially, ſeeing nothing can i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>deed be that in nature, which it is, with<g ref="char:EOLhyphen"/>out its
+<hi>Properties.</hi> This is uniform (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt perſiſt) to the nature of
+<hi>Government,</hi> that where the <hi>ſupreme Authority</hi> is, there muſt be its
+<hi>Prerogatives,</hi> and where the chief or principal <hi>Rights</hi> of it is, there ſhould
+all the reſt which depend upon, and belong to it, be placed alſo; Where <hi>Legiſlation</hi>
+is lodged, there ſhould the <hi>Mi<g ref="char:EOLhyphen"/>litia,</hi> there ſhould the <hi>power</hi> of <hi>making
+Judges,</hi> to name nothing more than ſerves my turn, be lodged alſo. It is this hath been the
+great Declenſion, Fault, or De<g ref="char:EOLhyphen"/>fect of our <hi>Engliſh</hi> Common-wealth, that the People have
+ſuffered theſe <hi>Rights</hi> of <hi>Soveraignty</hi> to come to be divided, ariſing, we
+muſt conceive, from the <hi>Adminiſtra<g ref="char:EOLhyphen"/>tion,</hi> that is <hi>Mal Adminiſtration,</hi> as
+appears, for Example, in the <hi>Militia,</hi> which upon the freſh coming in of the late King,
+was indeed, in two or three hot <hi>Acts</hi> de<g ref="char:EOLhyphen"/>clared to <hi>be,</hi> and <hi>ever</hi> to have
+<hi>been</hi> in the <hi>King;</hi> when both the Aſſertion was groſs Flattery, and ſuch
+<hi>Acts</hi> void, as fundamentally repugnant with the <hi>Conſti<g ref="char:EOLhyphen"/>tution.</hi>
+            </p>
+            <p>There is one <hi>difficulty</hi> to be thought on, and that is the <hi>Negative Voice</hi> of
+the <hi>Prince</hi> in his <hi>Parliament.</hi> The <hi>Lords</hi> and <hi>Commons</hi> may agree
+upon ſome <hi>Law</hi> for the Publick Benefit, and the <hi>King</hi> alone may refuſe to
+<hi>paſs</hi> it. If he be obſtinate, this is a great evil, and might really make one think it
+would be better therefore to place the <hi>ſupreme power</hi> in <hi>Lords</hi> and
+<hi>Commons</hi> only without a <hi>Controuler,</hi> for the preventing this Inconvenience:
+<hi>Bren</hi> there will be no need of Change upon that account, for the <hi>King</hi> ſometimes
+may ſee more than both his <hi>Houſes:</hi> And foraſmuch as this <hi>Prerogative</hi> of his
+hath been <hi>diſputed,</hi> and <hi>deny'd</hi> by many Ju<g ref="char:EOLhyphen"/>dicious Men, who have pleaded the
+Obligation of former Princes to <hi>confirm</hi> thoſe Laws, <hi>quas Vulgus elegerit,</hi> it is
+to be hoped that the <hi>Wiſdom</hi> of the <hi>Nation</hi> will be able to <hi>find</hi> out
+ſome <hi>Expedient</hi> or Salve for this <hi>difficulty,</hi> and for more than that alſo: So
+long as they have the <hi>Golden Opportunity,</hi> to bring a <hi>Crown</hi> in <hi>one</hi> hand,
+with their <hi>Terms</hi> or <hi>Conditions</hi> in the <hi>other.</hi>
+            </p>
+            <p>As for the ſeveral <hi>Grievances</hi> that need <hi>Redreſs,</hi> and many <hi>good
+things</hi> that are <hi>wanting</hi> to <hi>compleat</hi> the <hi>Happineſs</hi> of our Kingdom,
+there may be ſome Founda<g ref="char:EOLhyphen"/>tions laid happily, or Preparations made in order thereunto, by this
+<hi>Convention;</hi> but as belonging to the <hi>Adminiſtration,</hi> and being Matters of long
+Debate, they are the Work more properly of an Enſuing <hi>Parliament.</hi> Only let not the
+<hi>Mem<g ref="char:EOLhyphen"/>bers</hi> of this preſent <hi>Great Aſſembly</hi> forget, that they having ſo
+<hi>unlimited</hi> a <hi>Power,</hi> and the Nation ſuch an <hi>Opportunity,</hi> which, as the
+<hi>Secular Games,</hi> they are never like to ſee but once, they are more ſtrictly therefore
+bound in <hi>Conſcience</hi> and in <hi>Duty</hi> to their <hi>Country,</hi> to neglect no kind
+of thing which they judge <hi>abſolutely ne<g ref="char:EOLhyphen"/>ceſſary</hi> to the <hi>publick Good.</hi> I care
+not if I commend three or four ſuch Particulars to Conſultation, which ſhall be theſe. A
+Regulation of <hi>Weſtminſter-Hall.</hi> A Regiſter of <hi>Eſtates.</hi> A Freedom from
+<hi>Perſecution,</hi> (by a Bill for <hi>Comprehenſion</hi> and <hi>Indulgence</hi>) in the
+Buſineſs of Religion. A Redemption of the <hi>Chimney-Money,</hi> which bringing in the
+<hi>King</hi> to be <hi>Lord</hi> of every mans <hi>Houſe,</hi> is againſt <hi>Property,</hi>
+and an <hi>Over-ballance</hi> in the <hi>Revenue,</hi> is againſt the <hi>Intereſt</hi> of the
+<hi>Nation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
